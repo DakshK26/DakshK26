@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Daksh Khanna  
 
-🎓 Computer Engineering student at the University of Toronto  
+🎓 Computer Engineering student @ University of Toronto  
 🧠 Minoring in Artificial Intelligence  
 💻 AI & Optimization Researcher @ University of Toronto  
 
