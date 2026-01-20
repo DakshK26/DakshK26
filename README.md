@@ -63,4 +63,4 @@
 ---
 
 # 🧮 Total Contributions
-![](https://nirzak-streak-stats.vercel.app/?user=DakshK26&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DakshK26&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
