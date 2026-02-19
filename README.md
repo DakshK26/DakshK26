@@ -3,7 +3,7 @@
 
 🎓 Computer Engineering student @ University of Toronto  
 🧠 Minoring in Artificial Intelligence  
-💻 AI & Optimization Researcher @ University of Toronto  
+💻 Machine Learning Researcher @ University of Toronto  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-khanna-1aa9aa204) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daksh.khanna@mail.utoronto.ca)
