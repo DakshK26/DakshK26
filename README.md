@@ -1,18 +1,23 @@
-# 💫 About Me:
-👋 Hi, I'm Daksh Khanna  
+# 💫 About Me
 
-🎓 Computer Engineering student @ University of Toronto  
-🧠 Minoring in Artificial Intelligence  
-💻 Machine Learning Researcher @ University of Toronto  
+👋 Hi, I'm **Daksh Khanna**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-khanna-1aa9aa204) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daksh.khanna@mail.utoronto.ca)
+💼 Software Engineer Intern @ **Solink**  
+🎓 Computer Engineering student @ **University of Toronto**  
+🧠 Minor in **Artificial Intelligence**  
+🔬 Former Machine Learning Researcher @ **University of Toronto**
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-khanna-1aa9aa204)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daksh.khanna@mail.utoronto.ca)
 
 ---
 
 # 🛠️ Technical Skills
 
-### Languages
+## Languages
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -27,11 +32,12 @@
 
 ---
 
-### Frameworks & Libraries
+## Frameworks & Libraries
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -46,7 +52,8 @@
 
 ---
 
-### Developer Tools
+## Developer Tools
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,4 +70,5 @@
 ---
 
 # 🧮 Total Contributions
-![](https://nirzak-streak-stats.vercel.app/?user=DakshK26&theme=dark&hide_border=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=DakshK26&theme=dark&hide_border=false)
