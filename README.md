@@ -2,10 +2,10 @@
 
 👋 Hi, I'm **Daksh Khanna**
 
-💼 Software Engineer Intern @ **Solink**  
-🎓 Computer Engineering student @ **University of Toronto**  
-🧠 Minor in **Artificial Intelligence**  
-🔬 Former Machine Learning Researcher @ **University of Toronto**
+💼 Software Engineer Intern @ Solink  
+🎓 Computer Engineering student @ University of Toronto
+🧠 Minor in Artificial Intelligence  
+🔬 Prev Machine Learning Researcher @ University of Toronto
 
 ## 🌐 Socials
 
